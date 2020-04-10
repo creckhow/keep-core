@@ -6,7 +6,7 @@
 ifndef::yellowpaper[toc::[]]
 
 To incentivize correct behavior in the Keep network,
-misbehaving participants will be punished.
+misbehaving participants will be punished. If an operator's misbehavior is proven on chain, a penalty is applied and funds are siezed or slashed.
 In some situations,
 proving misbehavior requires cooperation from another participant,
 a _tattletale_.
